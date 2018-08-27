@@ -1,5 +1,5 @@
 <?php
-namespace oxycoach\slugwidget\SlugGenerator;
+namespace oxycoach\slugwidget;
 
 use Yii;
 use yii\base\Action;

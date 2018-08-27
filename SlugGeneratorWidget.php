@@ -1,5 +1,5 @@
 <?php
-namespace oxycoach\slugwidget\SlugGenerator;
+namespace oxycoach\slugwidget;
 
 use Codeception\Exception\ConfigurationException;
 use yii\base\Widget;

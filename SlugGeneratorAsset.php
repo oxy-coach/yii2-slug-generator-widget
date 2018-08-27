@@ -1,5 +1,5 @@
 <?php
-namespace oxycoach\slugwidget\SlugGenerator;
+namespace oxycoach\slugwidget;
 
 class SlugGeneratorAsset extends \yii\web\AssetBundle
 {
