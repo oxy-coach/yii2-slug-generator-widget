@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "oxy-coach/yii2-seo-behavior": "*",
+        "oxy-coach/yii2-seo-behavior": "*"
     },
     "autoload": {
         "psr-4": { "oxycoach\\slugwidget\\": "" }
